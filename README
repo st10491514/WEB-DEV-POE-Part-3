@@ -1,0 +1,25 @@
+# webdev-poe
+
+### Pages Included:
+- **Home** (index.html) - Welcome and featured products
+- **About** (about.html) - Company story and team
+- **Shop** (products.html) - Product catalog with images
+- **Contact** (contact.html) - Contact form and information
+- **Enquiries** (enquiry.html) - Customer enquiry form
+- **Reviews** (reviews.html) - Customer review form
+
+
+### JavaScript Enhancements:
+- Form validation with error messages
+- Interactive accordions (FAQ sections)
+- Modal windows (map viewer)
+- Lightbox image gallery
+- Search and filter functionality
+- Smooth animations and transitions
+
+### SEO Optimization:
+- Meta tags and descriptions
+- Proper header hierarchy (H1-H3)
+- Image alt text optimization
+- Mobile-friendly design
+- robots.txt and sitemap.xml
